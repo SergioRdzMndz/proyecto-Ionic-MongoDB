@@ -1,0 +1,11 @@
+# Node modules (no se suben, son muy pesados)
+node_modules/
+# Variables de entorno (datos sensibles)
+.env
+# Archivos de compilación
+dist/
+.angular/
+# Logs
+*.log
+# Cache
+.cache/
