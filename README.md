@@ -29,5 +29,5 @@ ionic serve
 
 1. Inicia el backend primero
 2. Luego inicia el frontend
-3. Abre el navegador en http://localhost:8100
+3. Abre el navegador en http://localhost:8100/registro
 4. Completa el formulario y guarda personas
