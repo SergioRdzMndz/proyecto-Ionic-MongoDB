@@ -6,7 +6,6 @@ Aplicación móvil con Ionic + Angular que permite registrar personas en una bas
 
 ### 1. Clonar el repositorio
 git clone https://github.com/SergioRdzMndz/proyecto-Ionic-MongoDB.git
-cd tu-repositorio
 
 ### 2. Configurar el Backend
 cd backend
