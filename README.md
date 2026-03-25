@@ -13,7 +13,7 @@ npm install
 
 Crea un archivo .env dentro de la carpeta backend:
 ```
-MONGODB_URI=mongodb+srv://adminUser:d9qF13AjH0DvMHfk@clusterpractica.iui3pfz.mongodb.net/practica_db?appName=ClusterPractica
+MONGODB_URI=mongodb+srv://USUARIO:PASSWORD@CLUSTER.mongodb.net/NOMBRE_BD?appName=NOMBRE_APP
 PORT=3000
 ```
 
